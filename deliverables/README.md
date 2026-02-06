@@ -18,7 +18,7 @@
 
 **Project Weight**: [100%](https://programsandcourses.anu.edu.au/2023/course/COMP4450/First%20Semester/2696) of COMP4450
 
-**Deliverables**: [proposal](https://github.com/glowing-sea/riscv-mobile-phone-survey/blob/main/deliverables/proposal.pdf), [literature review](https://github.com/glowing-sea/riscv-mobile-phone-survey/blob/main/deliverables/literature-review.pdf), [presentation](https://github.com/glowing-sea/riscv-mobile-phone-survey/tree/main/deliverables/presentation)
+**Deliverables**: [literature review](https://github.com/glowing-sea/riscv-mobile-phone-survey/blob/main/deliverables/literature-review.pdf), [proposal](https://github.com/glowing-sea/riscv-mobile-phone-survey/blob/main/deliverables/proposal.pdf), [presentation](https://github.com/glowing-sea/riscv-mobile-phone-survey/tree/main/deliverables/presentation)
 
 **Description**: 
 - This project performs a systematic survey on the adaptability of the RISC-V Instruction Set Architecture (ISA) on mobile phones, through the aspects of intrinsic properties (e.g., performance, openness, modularity, and security), hardware ecosystem (e.g., product line availability and academic and industrial research activeness), and software ecosystem (e.g., emulator, operating system, and compiler support).
